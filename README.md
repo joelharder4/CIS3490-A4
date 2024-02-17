@@ -1,6 +1,6 @@
 # Assignment 4
-> Course Code: **CIS\*3490**
-> Author: **Joel Harder**
+> Course Code: **CIS\*3490**<br>
+> Author: **Joel Harder**<br>
 > Last Edited: **March 28, 2023**
 
 ## Description
